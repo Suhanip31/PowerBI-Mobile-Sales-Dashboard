@@ -1,19 +1,37 @@
-# Power_BI_Dashboard
-Files related Interactive Dashboard in Power BI Lesson video available on YouTube
-<Br>
+# 📊 Power BI Project – [Your Project Title]
 
+This repository contains my Power BI dashboard project that showcases data visualization and business insights.  
+The dashboard is designed to provide meaningful insights and help in data-driven decision-making.  
 
+---
 
+## 🚀 Project Overview
+- Developed an interactive **Power BI dashboard** to analyze and visualize data.
+- Focused on **[your use case, e.g., sales analysis, HR analytics, finance tracking, etc.]**.
+- Provides insights into **[key metrics you analyzed]**.
 
-👉 Watch Video : <br><br>
+---
 
-[![Watch the video](https://img.youtube.com/vi/znJGWMtk_EE/hqdefault.jpg)](https://www.youtube.com/watch?v=znJGWMtk_EE&t=1s)
-<br><br>
-👉 You will be able to build Dashboard like below <br><br>
-👆 [Click Here View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-<br><br>
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Dashboard.jpg" alt="Image Description" width="300">
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/MTD%20Report.jpg" width="300">
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Same%20Period%20Last%20Year%20report.jpg" alt="Image Description" width="300">
+## 🌐 Dashboard Access
+👉 [Click here to view the live dashboard](YOUR_POWER_BI_LINK)  
 
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** for dashboard development
+- **Excel/CSV** for dataset (if applicable)
+- Data cleaning & transformation using **Power Query**
+
+---
+
+## 📈 Key Insights
+- Highlighted top performing categories
+- Identified trends and patterns
+- Created KPIs for better decision-making
+
+---
+
+## 📬 Contact
+If you have any questions or feedback, feel free to connect with me:  
+**[Your Name]** – [LinkedIn Profile Link]  
 
